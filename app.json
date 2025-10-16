@@ -1,0 +1,9 @@
+{
+  "name": "teste",
+  "slug": "teste",
+  "scheme": "teste",
+  "plugins": [
+    "expo-router",
+    "expo-sqlite"
+  ]
+}
